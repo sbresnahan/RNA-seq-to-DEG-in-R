@@ -2,7 +2,7 @@
 ##### Instructor name and contact information
 - Sean Bresnahan [stb5321@psu.edu](stb5321@psu.edu)
 
-##### [>\*Access the workshop markdown here\*<](link)
+##### [>\*Access the workshop markdown here\*<](https://sbresnahan.github.io/RNAseq-to-DEGs/)
 
 ## Workshop Description
 Hello, fellow denizens of the universe! (Specifically, ye humans who wish to tread the roads of computational biology in some form or another.) I designed this workshop as an introduction to many interrelated topics and tools that IMO are not only essential for conducting RNA-seq and differential gene expression analyses, but are quite useful and insightful for the endeavor of learning how to take a raw, high-throughput dataset all the way from A to Z (where "A" is the sequencing machine, and "Z" is a robust and internally replicable document detailing all analyses conducted).  
