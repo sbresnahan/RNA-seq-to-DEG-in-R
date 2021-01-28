@@ -22,7 +22,7 @@ Thus, the intent of this course is to not only learn how to use fancy tools spec
 * To understand the data types and structures involved in RNA-seq and differential gene expression analyses; what sequencing reads and gene expression count matrices are, and how to work with them
 * To understand differential gene expression analysis results and how to visualize them to tell a story
 * To learn how to write and work with markdown documents for reproducible data analysis
-* To learn how to utilize publisher-provided L<sup>A</sup>T<sup>E</sup>X typesets for formatting analyses (and our stories informed by them) for publication.
+* To learn how to utilize publisher-provided L<sup>A</sup>T<sub>E</sub>X typesets for formatting analyses (and our stories informed by them) for publication.
 
 ### Timeline
 TBD! Development of this workshop is currently ongoing (and the instructor is somewhat - or wholly - naive to instructing many others on this subject), so this is a learning process for me as well. Ultimately, my intent is that this course be entirely standalone, such that you, dear denizen of the universe, can follow it at your own pace from start to finish, without a single helping hand. For a first "in-person" run, per initial feedback, the virtual workshop will be split into four sessions, as follows:
@@ -88,10 +88,10 @@ install.packages("usethis")
 usethis::use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")
 ```
 
-Finally, download and enter the [RNA-seq-to-DEG-in-R](https://github.com/sbresnahan/RNA-seq-to-DEG-in-R.git) repository within R Studio:
+Finally, download and enter the [RNA-seq-to-DEGs](https://github.com/sbresnahan/RNAseq-to-DEGs) repository within R Studio:
 
 ```
-usethis::use_course("https://github.com/sbresnahan/RNA-seq-to-DEG-in-R/archive/main.zip")
+usethis::use_course("https://github.com/sbresnahan/RNA-seq-to-DEGs/archive/main.zip")
 
 setwd('some directory')
 ```
