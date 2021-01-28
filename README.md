@@ -92,8 +92,6 @@ Finally, download and enter the [RNA-seq-to-DEGs](https://github.com/sbresnahan/
 
 ```
 usethis::use_course("https://github.com/sbresnahan/RNA-seq-to-DEGs/archive/main.zip")
-
-setwd('some directory')
 ```
 
 The R Console will prompt `Downloading into 'some directory'` and ask whether you prefer a different location. Provide an alternative install directory or select `3` to continue. Just remember to keep track of the install directory as it is necessary to set R Studio's working directory to it in order to initialize the pipeline.
