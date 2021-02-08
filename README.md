@@ -2,7 +2,16 @@
 ##### Instructor name and contact information
 - Sean Bresnahan [stb5321@psu.edu](stb5321@psu.edu)
 
-##### [>\*Access the in-prep workshop markdown here\*<](https://sbresnahan.github.io/RNAseq-to-DEGs/)
+## Timeline
+This virtual workshop will be split into four sessions, one session from 3-5pm (EST) every two weeks, running 02/23/21-04/06/21:
+* **02/23/21, 3-5pm (EST)**: Initial setup and discussion about data transparency, management, and reproducibility | **Co-hosted by [Briana Ezray](https://twitter.com/bezray2?lang=en), Research Data Librarian - STEM, Penn State University Libraries**
+* **03/09/21, 3-5pm (EST)**: RNA-seq analysis, from sequencing reads to gene expression count matrices
+* **03/23/21, 3-5pm (EST)**: DEG analysis, from count matrices to DEGs (and what they're good for), and finally,
+* **04/06/21, 3-5pm (EST)**: Preparing markdown and L<sup>A</sup>T<sub>E</sub>X documents for scientific communication.  
+
+*Note: we will cover making and using markdown documents in sessions 2 and 3*  
+
+Workshop sessions will be held over [Zoom](https://zoom.psu.edu). [Please RSVP here]() to receive an email invitation to each Zoom meeting.
 
 ## Workshop Description
 Hello, fellow denizens of the universe! (Specifically, ye humans who wish to tread the roads of computational biology in some form or another.) I designed this workshop as an introduction to many interrelated topics and tools that IMO are not only essential for conducting RNA-seq and differential gene expression analyses, but are quite useful and insightful for the endeavor of learning how to take a raw, high-throughput dataset all the way from A to Z (where "A" is the sequencing machine, and "Z" is a robust and internally replicable document detailing all analyses conducted).  
@@ -22,15 +31,8 @@ Thus, the intent of this course is to not only learn how to use fancy tools spec
 * To understand the data types and structures involved in RNA-seq and differential gene expression analyses; what sequencing reads and gene expression count matrices are, and how to work with them
 * To understand differential gene expression analysis results and how to visualize them to tell a story
 * To learn how to write and work with markdown documents for reproducible data analysis
-* To learn how to utilize publisher-provided L<sup>A</sup>T<sub>E</sub>X typesets for formatting analyses (and our stories informed by them) for publication.
-
-### Timeline
-TBD! Development of this workshop is currently ongoing (and the instructor is somewhat - or wholly - naive to instructing many others on this subject), so this is a learning process for me as well. Ultimately, my intent is that this course be entirely standalone, such that you, dear denizen of the universe, can follow it at your own pace from start to finish, without a single helping hand. For a first "in-person" run, per initial feedback, the virtual workshop will be split into four sessions, as follows:
-* Initial setup and discussion about data transparency, management, and reproducibility,
-* RNA-seq analysis, from sequencing reads to gene expression count matrices
-* DEG analysis, from count matrices to DEGs (and what they're good for), and finally,
-* Preparing markdown and L<sup>A</sup>T<sub>E</sub>X documents for scientific communication.  
-
-*Note: we will cover making and using markdown documents in sessions 2 and 3*  
-
-In order to ensure a more-the-merrier situation, to RSVP for the workshop, [please fill out this form](http://whenisgood.net/rnaseqdegspsuworkshop) letting me know your availability during the week. **I will announce dates and times for these sessions by 2/1/21**.
+* To learn how to utilize publisher-provided L<sup>A</sup>T<sub>E</sub>X typesets for formatting analyses (and our stories informed by them) for publication.  
+  
+Development of this workshop is currently ongoing (and the instructor is somewhat - or wholly - naive to instructing many others on this subject), so this is a learning process for me as well. Ultimately, my intent is that this course be entirely standalone, such that you, dear denizen of the universe, can follow it at your own pace from start to finish, without a single helping hand.  
+  
+Hope to see you there! :)
