@@ -3,7 +3,7 @@
 - Sean Bresnahan [stb5321@psu.edu](stb5321@psu.edu)
 
 ## Timeline
-This virtual workshop will be split into four sessions, one session from 3-5pm (EST) every two weeks, running 02/23/21-04/06/21:
+This workshop will be split into four sessions, one session from 3-5pm (EST) every two weeks, running 02/23/21-04/06/21:
 * **02/23/21, 3-5pm (EST)**: Initial setup and discussion about data transparency, management, and reproducibility  
    **Co-hosted by [Briana Ezray](https://twitter.com/bezray2?lang=en), Research Data Librarian - STEM, Penn State University Libraries**
 * **03/09/21, 3-5pm (EST)**: RNA-seq analysis, from sequencing reads to gene expression count matrices
