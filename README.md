@@ -2,7 +2,7 @@
 ##### Instructor name and contact information
 - Sean Bresnahan [stb5321@psu.edu](stb5321@psu.edu)
 
-## [Workflow](https://sbresnahan.github.io/RNAseq-to-DEGs/)
+##### [Workflow](https://sbresnahan.github.io/RNAseq-to-DEGs/)
 
 ## Registration
 Workshop sessions will be held over [Zoom](https://zoom.psu.edu). [Please RSVP here](https://www.eventcreate.com/e/rnaseqtodegs) to receive an email invitation to each Zoom meeting.
