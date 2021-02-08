@@ -1,5 +1,6 @@
 # RNA-seq to DEGs Virtual Workshop: data management, analysis, and visualization with R Studio<sup>*</sup>, GitHub, and L<sup>A</sup>T<sub>E</sub>X
 #### [Workflow](https://sbresnahan.github.io/RNAseq-to-DEGs/)
+*Note: this is still in prep. All session 1 content will be fully available by 02/16/21.*
 ##### Instructor name and contact information
 - Sean Bresnahan [stb5321@psu.edu](stb5321@psu.edu)
 
@@ -36,6 +37,6 @@ This workshop will be split into four sessions, one session from 3-5pm (EST) eve
 
 *Note: we will cover making and using markdown documents in sessions 2 and 3*    
   
-Development of this workshop is currently ongoing (and the instructor is somewhat - or wholly - naive to instructing many others on this subject), so this is a learning process for me as well. Ultimately, my intent is that this course be entirely standalone, such that you, dear denizen of the universe, can follow it at your own pace from start to finish, without a single helping hand.  
+**Important disclaimer**: I am a second year graduate student, and do not claim to be an expert in any of these subjects. But - I've spent a lot of time working out ways to make transcriptomics analyses more organized, clear, interpretable, and replicable, and am hopeful that through this workshop, we will collectively produce a pretty decent resource for others picking up these tools. If you'd like more expert-level, hyper-robust, ultra-detailed tutorials and resources on DEG analysis particularly, please see [this workflow](https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html) by Michael Love et al... IMO, it doesn't get much better than this!
   
 Hope to see you there! :)
