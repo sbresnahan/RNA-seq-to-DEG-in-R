@@ -4,7 +4,8 @@
 
 ## Timeline
 This virtual workshop will be split into four sessions, one session from 3-5pm (EST) every two weeks, running 02/23/21-04/06/21:
-* **02/23/21, 3-5pm (EST)**: Initial setup and discussion about data transparency, management, and reproducibility | **Co-hosted by [Briana Ezray](https://twitter.com/bezray2?lang=en), Research Data Librarian - STEM, Penn State University Libraries**
+* **02/23/21, 3-5pm (EST)**: Initial setup and discussion about data transparency, management, and reproducibility  
+   **Co-hosted by [Briana Ezray](https://twitter.com/bezray2?lang=en), Research Data Librarian - STEM, Penn State University Libraries**
 * **03/09/21, 3-5pm (EST)**: RNA-seq analysis, from sequencing reads to gene expression count matrices
 * **03/23/21, 3-5pm (EST)**: DEG analysis, from count matrices to DEGs (and what they're good for), and finally,
 * **04/06/21, 3-5pm (EST)**: Preparing markdown and L<sup>A</sup>T<sub>E</sub>X documents for scientific communication.  
