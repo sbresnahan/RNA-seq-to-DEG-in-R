@@ -1,6 +1,5 @@
 # RNA-seq to DEGs Virtual Workshop: data management, analysis, and visualization with R Studio<sup>*</sup>, GitHub, and L<sup>A</sup>T<sub>E</sub>X
 #### [Workflow](https://sbresnahan.github.io/RNAseq-to-DEGs/)
-*Note: this is still in prep. All session 1 content will be fully available by 02/16/21.*
 ##### Instructor name and contact information
 - Sean Bresnahan [stb5321@psu.edu](stb5321@psu.edu)
 
