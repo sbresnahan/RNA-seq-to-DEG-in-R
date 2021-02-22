@@ -29,8 +29,8 @@ Thus, the intent of this course is to not only learn how to use fancy tools spec
 * To learn how to write and work with markdown documents for reproducible data analysis
 * To learn how to utilize publisher-provided L<sup>A</sup>T<sub>E</sub>X typesets for formatting analyses (and our stories informed by them) for publication.
 
-### Microsoft TEAMS
-Throughout the workshop (and beyond!), we will use the Microsoft TEAMS platform as a way to network among ourselves, and as a virtual “working group” for tech support. TEAMS is a great alternative to Slack, which integrates Microsoft Office tools rather than Google tools. You can access TEAMS from the web, or download the desktop/mobile app. Ideally, we will run this workshop or a variant of it again in the future, and this TEAM will remain open as a permanent resource. Feel free to start using our Team for all your Q&A needs :)
+### Microsoft Teams
+Throughout the workshop (and beyond!), we will use the [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) platform as a way to network among ourselves, and as a virtual “working group” for tech support. Teams is a great alternative to Slack, which integrates Microsoft Office tools rather than Google tools. You can access Teams from the web, or download the desktop/mobile app. Ideally, we will run this workshop or a variant of it again in the future, and this Team will remain open as a permanent resource. Feel free to start using our Team for all your Q&A needs :)
 
 #### Office hours
 If you have questions or issues while following the setup instructions, I can help you 1:1 during these times:
