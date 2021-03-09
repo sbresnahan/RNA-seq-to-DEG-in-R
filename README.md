@@ -4,7 +4,7 @@
 - Sean Bresnahan [stb5321@psu.edu](stb5321@psu.edu)
 
 ## Registration
-Workshop sessions will be held over [Zoom](https://zoom.psu.edu). [Please RSVP here](https://www.eventcreate.com/e/rnaseqtodegs) to receive an email invitation to each Zoom meeting.
+Workshop sessions will be held over [Zoom](https://zoom.psu.edu) and communications over [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software). Registration for the spring session is closed, but you can still join in - just send me an email :)
 
 ## Workshop Description
 Hello, fellow denizens of the universe! (Specifically, ye humans who wish to tread the roads of computational biology in some form or another.) I designed this workshop as an introduction to many interrelated topics and tools that IMO are not only essential for conducting RNA-seq and differential gene expression analyses, but are quite useful and insightful for the endeavor of learning how to take a raw, high-throughput dataset all the way from A to Z (where "A" is the sequencing machine, and "Z" is a robust and internally replicable document detailing all analyses conducted).  
@@ -44,10 +44,10 @@ Just message me in Teams and I’ll try to respond ASAP!
 This workshop will be split into four sessions, one session from 3-5pm (EST) every two weeks, running 02/23/21-04/06/21:
 * **02/23/21, 3-5pm (EST)**: Initial setup and discussion about data transparency, management, and reproducibility  
    **Co-hosted by [Briana Ezray](https://twitter.com/bezray2?lang=en), Research Data Librarian - STEM, Penn State University Libraries**
-* **03/09/21, 3-5pm (EST)**: RNA-seq analysis, from sequencing reads to gene expression count matrices
+* **~~03/09/21, 3-5pm (EST)~~ rescheduled for tech support hours, new date: 03/16/21, 3-5pm (EST)**: RNA-seq analysis, from sequencing reads to gene expression count matrices
 * **03/23/21, 3-5pm (EST)**: DEG analysis, from count matrices to DEGs (and what they're good for), and finally,
 * **04/06/21, 3-5pm (EST)**: Preparing markdown and L<sup>A</sup>T<sub>E</sub>X documents for scientific communication.  
 
-*Note: we will cover making and using markdown documents in sessions 2 and 3*    
+*Note: we will cover making and using markdown documents in session 3*    
   
 Hope to see you there! :)
