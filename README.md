@@ -48,6 +48,6 @@ This workshop will be split into four sessions, one session from 3-5pm (EST) eve
 * **03/23/21, 3-5pm (EST)**: DEG analysis, from count matrices to DEGs (and what they're good for), and finally,
 * **04/06/21, 3-5pm (EST)**: Preparing markdown and L<sup>A</sup>T<sub>E</sub>X documents for scientific communication.  
 
-*Note: we will cover making and using markdown documents in session 3*    
+*Note: we will cover making and using markdown documents in sessions 3 and 4*    
   
 Hope to see you there! :)
